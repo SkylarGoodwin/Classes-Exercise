@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|c:\\users\\admin\\desktop\\repos\\classes-exercise\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|c:\\users\\admin\\desktop\\repos\\classes-exercise\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352480B6-C914-4D2C-8F47-CE803A5F36CC}|Classes\\Classes.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\repos\\Classes-Exercise\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:25:28.43Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "Classes\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\repos\\Classes-Exercise\\Classes\\Program.cs",
               "RelativeToolTip": "Classes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T09:22:01.513Z",
               "EditorCaption": ""
